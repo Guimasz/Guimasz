@@ -3,7 +3,7 @@
 <!--
 
 - 🔭 I’m currently working on back-end projects to expand my knowledge
-- 🌱 I’m currently learning OOP and the JAVA stack
+- 🌱 Focusing on learning OOP and the JAVA stack
 - 📫Contacts: gui10souza@gmail.com / https://www.linkedin.com/in/guilhermeasouza1/
 
 - ⚡ Fun fact: Almost a Grape juice "sommelier"
