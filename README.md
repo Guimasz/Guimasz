@@ -44,8 +44,7 @@
 ---
 
 ### 📝 Recent Projects
-- 🔹 **Project Name** - [API-BREAKINGNEWS]([API-BREAKINGNEWS](https://github.com/Guimasz/API-BREAKINGNEWS)): Full-stack project for a website where users can post, edit, and delete news articles with login and authentication functionality. Built for learning the MERN stack (MongoDB, Express, React, and Node.js).
-- 🔹 **Project Name** - [Sistema de Reservas Universitário]([https://github.com/yourusername/projectname](https://github.com/Guimasz/SistemaReservasUniversidade)): Academic project developed in collaboration with a partner, creating a university reservation system using Java and PostgreSQL, with built-in validations to prevent conflicts.
-
+- 🔹 **[API-BREAKINGNEWS](https://github.com/Guimasz/API-BREAKINGNEWS)**  : Full-stack project for a website where users can post, edit, and delete news articles with login and authentication functionality. Built for learning the MERN stack (MongoDB, Express, React, and Node.js).
+- 🔹 **[Sistema de Reservas Universitário](https://github.com/Guimasz/SistemaReservasUniversidade)**  : Academic project developed in collaboration with a partner, creating a university reservation system using Java and PostgreSQL, with built-in validations to prevent conflicts.
 ---
 
