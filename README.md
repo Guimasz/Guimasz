@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>Hi there, I'm Guilherme 👋</h1>
-  <h3>Software Engineer | Backend Developer | Tech Enthusiast</h3>
+  <h3>Software Engineer | Backend Developer | AI and Machine Learning Enthusiast</h3>
   
   <p>
     <a href="mailto:gui10asouza@gmail.com">
