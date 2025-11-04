@@ -44,7 +44,7 @@
 ---
 
 ### 📝 Recent Projects
-- 🔹 **[API-BREAKINGNEWS](https://github.com/Guimasz/API-BREAKINGNEWS)**  : Full-stack project for a website where users can post, edit, and delete news articles with login and authentication functionality. Built for learning the MERN stack (MongoDB, Express, React, and Node.js).
+- 🔹 **[Maze Agent](https://github.com/Guimasz/MazeAgent)**  : Academic project for my AI subject in college. An autonomous agent that uses priority algorithms to decide its path through a maze, trying to finish it at the shortest time possible. 
 - 🔹 **[Sistema de Reservas Universitário](https://github.com/Guimasz/SistemaReservasUniversidade)**  : Academic project developed in collaboration with a partner, creating a university reservation system using Java and PostgreSQL, with built-in validations to prevent conflicts.
 ---
 
