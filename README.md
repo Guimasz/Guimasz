@@ -18,7 +18,7 @@
 - 🎓 I’m a Software Engineering student specializing in backend development, focusing on **Java** and **Spring Framework**.
 - 🌱 Currently expanding my knowledge in **Node.js**, **TypeScript**, **Python**,and **Machine Learning**.
 - 🚀 Passionate about learning new technologies, creating scalable applications, and solving complex problems.
-- 👯 I’m always open to collaborating on projects and innovative ideas.
+- 🔧 I’m always open to collaborating on projects and innovative ideas.
 
 ---
 
